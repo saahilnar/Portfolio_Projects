@@ -1,0 +1,13 @@
+Variable,Test,Statistic,P_Value,Effect_Size,Effect_Size_Type,Significant
+OverTime,Chi-Square,87.5643,0.0,0.2441,Cramer's V,Yes
+JobSatisfaction,Chi-Square,17.5051,0.000556,0.1091,Cramer's V,Yes
+WorkLifeBalance,Chi-Square,16.3251,0.000973,0.1054,Cramer's V,Yes
+Department,Chi-Square,10.796,0.004526,0.0857,Cramer's V,Yes
+BusinessTravel,Chi-Square,24.1824,6e-06,0.1283,Cramer's V,Yes
+MaritalStatus,Chi-Square,46.1637,0.0,0.1772,Cramer's V,Yes
+JobLevel,Chi-Square,72.529,0.0,0.2221,Cramer's V,Yes
+MonthlyIncome,Mann-Whitney U,100620.5,0.0,-0.3113,Rank-Biserial Correlation,Yes
+YearsAtCompany,Mann-Whitney U,102582.0,0.0,-0.2979,Rank-Biserial Correlation,Yes
+Age,Mann-Whitney U,106859.0,0.0,-0.2686,Rank-Biserial Correlation,Yes
+TotalWorkingYears,Mann-Whitney U,100567.0,0.0,-0.3117,Rank-Biserial Correlation,Yes
+YearsSinceLastPromotion,Mann-Whitney U,134374.0,0.041179,-0.0803,Rank-Biserial Correlation,Yes
